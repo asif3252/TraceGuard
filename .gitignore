@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+data/
+exports/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+.venv/
+.env
+.env.*
+*.zip
